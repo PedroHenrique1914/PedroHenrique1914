@@ -1,4 +1,4 @@
-- Olá, me chamo Pedro Henrique
+- Olá, meu nome é Pedro Henrique
 - Sou um jovem de 18 anos, ávido por conhecimento e com grande interesse em trabalhar com dados
 - Aqui busco mostrar um pouco do meu conhecimento na área de dados através dos meus projetos
 <!---
